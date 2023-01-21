@@ -1,0 +1,15 @@
+# Files and directories created by pub.
+.dart_tool/
+.packages
+.idea/
+CHANGELOG.md
+README.md
+analysis_options.yaml
+imc.iml
+lib/
+pubspec.lock
+pubspec.yaml
+test/
+
+# Conventional directory for build output.
+build/
